@@ -7,7 +7,6 @@ import User from "./components/users/User";
 import Alert from "./components/layout/Alert";
 import About from "./components/pages/About";
 import axios from "axios";
-
 import "./App.css";
 
 class App extends Component {
